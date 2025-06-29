@@ -1,6 +1,7 @@
 # Advanced Autonomous Vehicle Simulation
 
 A sophisticated autonomous vehicle simulator built with PyQt5 featuring advanced sensor systems, 3D visualization, and real-time simulation capabilities.
+![Screenshot from 2025-06-29 18-42-17](https://github.com/user-attachments/assets/1a330624-bf7e-4667-92da-c952e7e5a5d4)
 
 ## Features
 
